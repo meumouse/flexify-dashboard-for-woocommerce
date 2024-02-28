@@ -31,5 +31,6 @@ Você pode instalar um plugin WordPress de duas maneiras: via o painel de admini
 Versão 1.2.0 (27/02/2024)
 * Correção de bugs
 * Otimizações
+* Recurso adicionado: Integração com Google reCAPTCHA
 
 Versão 1.0.0 inicial (07/02/2024)
