@@ -28,6 +28,13 @@ Você pode instalar um plugin WordPress de duas maneiras: via o painel de admini
 
 ### Registro de alterações (Changelogs):
 
+Versão 1.3.0 (20/04/2024)
+* Correção de bugs
+* Otimizações
+* Recurso adicionado: Ativar animação de carregamento de páginas
+* Recurso adicionado: Ativar widget de últimos pedidos recebidos
+* Recurso adicionado: Alteração de paleta de cores
+
 Versão 1.2.6 (06/04/2024)
 * Correção de bugs
 
