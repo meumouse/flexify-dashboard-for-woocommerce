@@ -1,23 +1,23 @@
 {
-	"name" : "Flexify Dashboard para WooCommerce",
-	"slug" : "flexify-dashboard-for-woocommerce",
-	"author" : "<a href='https://meumouse.com'>MeuMouse.com</a>",
-	"author_profile" : "https://profiles.wordpress.org/meumouse",
-	"version" : "1.3.0",
-	"download_url" : "https://github.com/meumouse/flexify-dashboard-for-woocommerce/raw/main/dist/flexify-dashboard-for-woocommerce.zip",
-	"requires" : "5.6",
-	"tested" : "6.5.2",
-	"requires_php" : "7.4",
-	"added" : "2024-02-07 12:00:00",
-	"last_updated" : "2024-04-20 15:53:00",
-	"homepage" : "https://meumouse.com/plugins/flexify-dashboard-para-woocommerce/",
-	"sections" : {
-		"description" : "Extensão que traz um design moderno e amigável ao painel do WordPress, com recursos essenciais para análise de lojas em WooCommerce.",
-		"installation" : "",
-		"changelog" : ""
-	},
-	"banners" : {
-		"low" : "",
-		"high" : ""
-	}
+    "name": "Flexify Dashboard",
+    "slug": "flexify-dashboard",
+    "author": "<a href='https://meumouse.com'>MeuMouse.com</a>",
+    "author_profile": "https://profiles.wordpress.org/meumouse",
+    "version": "2.0.0",
+    "download_url": "https://packages.meumouse.com/v1/downloads/flexify-dashboard",
+    "requires": "5.6",
+    "tested": "6.9.4",
+    "requires_php": "7.4",
+    "added": "2024-02-07 12:00:00",
+    "last_updated": "2026-04-07 00:23:00",
+    "homepage": "https://meumouse.com/plugins/flexify-dashboard/?utm_source=wordpress&utm_medium=flexify_dashboard&utm_campaign=plugins_list",
+    "sections": {
+        "description": "Aprimore sua experiência administrativa no WordPress com uma interface elegante e de alto desempenho. O Flexify Dashboard oferece um tema administrativo moderno e intuitivo que combina beleza e funcionalidade.",
+        "installation": "",
+        "changelog": "<ul><li><strong>Versão 2.0.0 (06/04/2026)</strong></li><li>Correção de bugs</li><li>Otimizações</li><li>Remoção do WooCommerce como dependência</li><li>Mudança de arquitetura para MACI (Modular Autoload Class Initialization)</li><li>Novo sistema modular (App, Rest, Pages, Analytics, Utility, etc)</li><li>Novo sistema de build frontend com aplicação compilada (SPA administrativa)</li><li>Recurso adicionado: Sistema avançado de Custom Fields (posts, usuários, termos, mídia, options)</li><li>Recurso adicionado: Módulo de Analytics com suporte a Google Analytics</li><li>Recurso adicionado: Integração com Google Analytics via Service Account</li><li>Recurso adicionado: Explorer de banco de dados (Database Viewer)</li><li>Recurso adicionado: Activity Log (registro de atividades do sistema)</li><li>Recurso adicionado: Editor de roles e permissões de usuários</li><li>Recurso adicionado: Gerenciamento avançado de mídia (tags, replace, bulk actions)</li><li>Recurso adicionado: Endpoints REST completos para dashboard (server health, plugins, usuários, posts, etc)</li><li>Recurso adicionado: Widget do Rank Math no dashboard</li><li>Recurso adicionado: Sistema de métricas de performance de plugins</li><li>Recurso adicionado: Menu Builder (gerenciador de menus administrativos)</li><li>Recurso adicionado: Sistema de autenticação e rotas REST para login/logout</li><li>Recurso adicionado: Camada de segurança com sanitização avançada (HTMLPurifier e SVG Sanitizer)</li><li>Recurso adicionado: Sistema de atualização via servidor MeuMouse (update-checker.json)</li><li>Recurso adicionado: Compatibilidade estruturada com WooCommerce (dados e widgets via REST)</li></ul>"
+    },
+    "banners": {
+        "low": "",
+        "high": ""
+    }
 }
